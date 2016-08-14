@@ -3,11 +3,11 @@
 ### Instalation
 
 1) Clone repo:
-`` git clone ``
+`` git clone https://github.com/lucavictor220/amchartsExample.git ``
 
 2) Move to the directory of the project ``cd amcharts``
 
-3) Run ``npm install``
+3) Run ``npm install`` . If any error occurs make sure you have node.js installed.
 
 4) Open index.html in the browser.
 
